@@ -1,2 +1,2 @@
-# Linear_dynamical-_system
+# Linear_dynamical_system
 Simulation of Linear Dynamical system
